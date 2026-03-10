@@ -6,3 +6,6 @@ description: Unprocessed task captures. PM agent sorts these into project files.
 ## Inbox
 
 <!-- New items land here. PM agent parses, categorizes, and moves to project files. -->
+
+- [ ] This is a test task — do some random stuff
+  due: 2026-03-11
